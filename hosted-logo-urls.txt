@@ -1,0 +1,38 @@
+PowerSol Email Signature — Hosted Logo URLs
+Source: https://github.com/RobertjCook/powersol-signature-assets (GitHub Pages)
+Base URL: https://RobertjCook.github.io/powersol-signature-assets/
+
+Brand                          Hosted Logo URL                                                              Brand Website
+-----                          ---------------                                                              -------------
+PowerSol                       https://RobertjCook.github.io/powersol-signature-assets/powersol-logo.png                  https://www.powersol.co.za
+Victron Energy                 https://RobertjCook.github.io/powersol-signature-assets/victron-logo.png                   https://www.victronenergy.com/
+Hella Marine                   https://RobertjCook.github.io/powersol-signature-assets/hella-marine-logo.png              https://www.hellamarine.com/
+Sleipner                       https://RobertjCook.github.io/powersol-signature-assets/sleipner-logo.png                  https://www.sleipnergroup.com/
+OceanLED                       https://RobertjCook.github.io/powersol-signature-assets/oceanled-logo.png                  https://www.oceanled.com/
+Seaview Blinds                 https://RobertjCook.github.io/powersol-signature-assets/seaview-blinds-logo.png            https://seaviewblinds.com/
+ARCO Marine                    https://RobertjCook.github.io/powersol-signature-assets/arco-logo.png                      https://arcomarine.com/
+Carling Technologies           https://RobertjCook.github.io/powersol-signature-assets/carling-logo.png                   https://www.carlingtech.com/
+Frigus (WEMA)                  https://RobertjCook.github.io/powersol-signature-assets/frigus-wema-logo.png               https://www.frigus.se/en/Start/Wema
+MG Energy Systems              https://RobertjCook.github.io/powersol-signature-assets/mg-energy-systems-logo.png         https://www.mgenergysystems.eu/en/
+Blue Sea Systems                https://RobertjCook.github.io/powersol-signature-assets/blue-sea-systems-logo.png         https://www.bluesea.com/
+BEP                             https://RobertjCook.github.io/powersol-signature-assets/bep-logo.png                      https://www.navico.com/bep
+CZone                           https://RobertjCook.github.io/powersol-signature-assets/czone-logo.png                    https://czone.navico.com/
+Marinco                         https://RobertjCook.github.io/powersol-signature-assets/marinco-logo.png                  https://marinco.navico.com/
+Lenco Marine                    https://RobertjCook.github.io/powersol-signature-assets/lenco-logo.png                    https://lencomarine.navico.com/
+Ancor                           https://RobertjCook.github.io/powersol-signature-assets/ancor-logo.png                    https://www.navico.com/ancor
+Rim Drive Technology            https://RobertjCook.github.io/powersol-signature-assets/rim-drive-logo.png                https://rimdrivetechnology.nl/
+Ruuvi                           https://RobertjCook.github.io/powersol-signature-assets/ruuvi-logo.png                    https://ruuvi.com/
+Scanstrut                       https://RobertjCook.github.io/powersol-signature-assets/scanstrut-logo.png                https://www.scanstrut.com/
+Shurflo (Pentair)                https://RobertjCook.github.io/powersol-signature-assets/shurflo-logo.png                  https://www.pentair.com/en-us/flow/shurflo.html
+Silentwind                      https://RobertjCook.github.io/powersol-signature-assets/silentwind-logo.png               https://silentwind.com/
+Spectra Watermakers              https://RobertjCook.github.io/powersol-signature-assets/spectra-watermakers-logo.png     https://spectrawatermakers.com/collections/marine
+Sterling Power                   https://RobertjCook.github.io/powersol-signature-assets/sterling-logo.png                 https://sterling-power.com/
+Watt&Sea                         https://RobertjCook.github.io/powersol-signature-assets/watt-sea-logo.png                 https://www.wattandsea.com/en/
+Balmar                           https://RobertjCook.github.io/powersol-signature-assets/balmar-logo.png                   https://balmar.net/
+Bellmarine - Transfluid          https://RobertjCook.github.io/powersol-signature-assets/bellmarine-logo.png               https://bellmarine.tech/en/products-page/marine-products-page/
+
+Notes:
+- These are the exact URLs used as <img src="..."> in signature.html and signature_rob.html.
+- Hosting: GitHub Pages, repo is PUBLIC (required for free GitHub Pages).
+- To update a logo: replace the PNG of the same filename in this repo folder, then git add / commit / push. The URL never changes, so the signature files never need editing again.
+- GitHub repo: https://github.com/RobertjCook/powersol-signature-assets
